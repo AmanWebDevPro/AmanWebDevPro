@@ -1,8 +1,8 @@
 #<h1 align="center">Hi 👋, I'm Aman Ullah</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
-<img align="right" alt="image" width="400" src=""<img width="680" height="428" alt="212749171-b84692a8-2b04-4e3b-93ca-ac14705da224" src="https://github.com/user-attachments/assets/be4ef470-44f0-43e7-9917-d1cb3c686a8f" />
->
+<img width="680" height="428" alt="212749171-b84692a8-2b04-4e3b-93ca-ac14705da224" src="https://github.com/user-attachments/assets/be4ef470-44f0-43e7-9917-d1cb3c686a8f" />
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amanwebdevpro&label=Profile%20views&color=0e75b6&style=flat" alt="amanwebdevpro" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amanwebdevpro" alt="amanwebdevpro" /></a> </p>
